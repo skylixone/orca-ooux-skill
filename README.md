@@ -115,9 +115,10 @@ Or just point your agent to this repo — they will know what to do.
 The skill has been grown through several live workshop sessions on a real product (L.O.R.F, a  social media content creation tool for corporate use — for non-creatives to make social ). Key additions from those sessions:
 
 - Adversarial validation pattern for object model completeness before IxD
+- Figma-style WYSIWYG canvas with limited editability (branding is locked in)
 - "Only the branding is locked" global rule
 - Single-slide collapse pattern (carousel vs single-image unification)
-- Template icker-as-home-screen pattern
+- Template picker-as-home-screen pattern
 - Gerstner-style grid sizing validation with real viewport math (see also: [programmatic design](https://www.eyeondesign.aiga.org/karl-gerstner-programmatic-design/))
 - IxD phase facilitation with persistent ixd.md file pattern
 - Canvas-as-workspace vs canvas-as-document distinctions
