@@ -81,6 +81,8 @@ OOUX was created by Sofia Quintero. References:
 
 ## Usage
 
+Just point your agent to this repo — they will know what to do.
+
 **Hermes Agent**
 Skill lives at `~/.hermes/skills/creative/ooux/SKILL.md` — loaded automatically when trigger conditions match.
 
@@ -106,7 +108,7 @@ Then in your session: "run an OOUX workshop on this brief: [brief]" (paste text 
 **Any other agent**
 Paste or attach `SKILL.md` as a system prompt or context document, then tell the agent: "run an OOUX workshop on this brief: [brief]". The agent has everything it needs to facilitate the full session.
 
-Or just point your agent to this repo — they will know what to do.
+
 
 ---
 
